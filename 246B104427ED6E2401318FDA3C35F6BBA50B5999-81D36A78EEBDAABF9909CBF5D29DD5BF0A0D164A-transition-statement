@@ -1,0 +1,17 @@
+For a number of reasons I'm transitioning to a new GPG key.
+
+Old key I've been using so far:
+
+sec   rsa2048 2014-04-18 [SC]
+      246B104427ED6E2401318FDA3C35F6BBA50B5999
+uid           [ultimate] Andrey Kartashov <akartashov@gilt.com>
+ssb   rsa2048 2014-04-18 [E]
+
+
+New key:
+
+sec   rsa4096 2018-06-17 [SC]
+      81D36A78EEBDAABF9909CBF5D29DD5BF0A0D164A
+uid           [ultimate] Andrey Kartashov <andrey.kartashov@gmail.com>
+ssb   rsa4096 2018-06-17 [E]
+ssb   rsa4096 2018-06-17 [S] [expires: 2023-06-16]
