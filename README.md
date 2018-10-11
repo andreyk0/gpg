@@ -1,3 +1,15 @@
+# Import Public key and encrypt a message
+
+Import key:
+```bash
+curl https://raw.githubusercontent.com/andreyk0/gpg/master/81D36A78EEBDAABF9909CBF5D29DD5BF0A0D164A.pub | gpg --import
+```
+
+Encrypt a test message:
+```bash
+echo test |  gpg --encrypt --armor --recipient 81D36A78EEBDAABF9909CBF5D29DD5BF0A0D164A > test.gpg
+```
+
 # GPG keys
 
 ```bash
